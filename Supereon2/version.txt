@@ -1,0 +1,3 @@
+1.0.0
+607ff3f7f336aeeea7d2330dbfd434ab2b861392286474e913109d5c293973d5
+https://github.com/kl1603514-dot/Supereon/releases/download/v1.0.0/OP_Auto.exe
